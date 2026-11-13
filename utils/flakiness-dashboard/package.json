@@ -6,6 +6,6 @@
   "author": "",
   "dependencies": {
     "@azure/identity": "^4.13.1",
-    "@azure/storage-blob": "^12.27.0"
+    "@azure/storage-blob": "^12.34.0"
   }
 }
